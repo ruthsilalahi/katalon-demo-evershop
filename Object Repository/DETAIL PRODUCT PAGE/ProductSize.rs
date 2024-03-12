@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ProductSize</name>
+   <tag></tag>
+   <elementGuidId>24285e2c-b814-472a-bcf0-ba3eca7486e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${ProductSize}' or . = '${ProductSize}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.variant-option-list.flex.justify-start.gap-05.flex-wrap > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[2]/div[2]/div/div[2]/div[2]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e713cfa-3f50-40b0-93d4-d1e059e2d42f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>71e80854-356a-4140-a6b8-ade869fe3147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${ProductSize}</value>
+      <webElementGuid>0d27a529-bbcd-4496-9619-c5f3939e377d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;product-detail&quot;]/div[@class=&quot;product-page-middle page-width&quot;]/div[@class=&quot;grid grid-cols-1 gap-3 md:grid-cols-2&quot;]/div[2]/div[@class=&quot;variant variant-container grid grid-cols-1 gap-1 mt-2&quot;]/div[1]/ul[@class=&quot;variant-option-list flex justify-start gap-05 flex-wrap&quot;]/li[1]/a[1]</value>
+      <webElementGuid>91106c2a-db85-4a90-8214-20e406777594</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[2]/div[2]/div/div[2]/div[2]/div/ul/li/a</value>
+      <webElementGuid>89ed0a64-c4d8-44a0-9eda-c1488b40b9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'S')]</value>
+      <webElementGuid>1fe70dc0-fb69-4aff-88f1-41f467f20f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/following::a[1]</value>
+      <webElementGuid>b4e141db-b4cb-45f0-9309-497513bbd614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adidas'])[1]/following::a[1]</value>
+      <webElementGuid>1811155e-34f0-425e-942e-1c23e82f10d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[5]</value>
+      <webElementGuid>365cc06c-bc2c-48c7-b1c9-1777ec7f54d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[5]</value>
+      <webElementGuid>9178bd20-f0cf-4dde-a6e2-f9fac50755c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='S']/parent::*</value>
+      <webElementGuid>ab493317-4cb8-408c-a8e5-715cf740bcfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[8]</value>
+      <webElementGuid>e9d5b3c3-40db-4ab3-a679-4706d6390896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li/a</value>
+      <webElementGuid>565c7438-cb75-4148-b748-281e6ebaa13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'S' or . = 'S')]</value>
+      <webElementGuid>042c2957-d09a-40f3-a932-438403cc49b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

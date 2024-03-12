@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Full name</name>
+   <tag></tag>
+   <elementGuidId>29d35818-9611-47d2-a987-0990f474e17a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;address[full_name]&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@placeholder='Full name'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f886dc03-81ce-4d8c-b681-0203efc4b0bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d34c6ba2-73c3-44b3-be5a-316c577e20f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>address[full_name]</value>
+      <webElementGuid>23f33793-ea17-4cf2-afdb-969be543f646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Full name</value>
+      <webElementGuid>df2b5949-a41d-45d1-9d12-1d4a75d767e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkoutShippingAddressForm&quot;)/div[1]/div[@class=&quot;grid grid-cols-2 gap-1&quot;]/div[1]/div[@class=&quot;form-field-container null&quot;]/div[@class=&quot;field-wrapper flex flex-grow&quot;]/input[1]</value>
+      <webElementGuid>24db9e7b-e8b1-402f-8356-3a6fd2aa018b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='address[full_name]']</value>
+      <webElementGuid>8f83e446-6728-46ac-8bd6-b2bd72cb1640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkoutShippingAddressForm']/div/div/div/div/div/input</value>
+      <webElementGuid>5bf1cc57-a63c-437f-bdcd-f96cc8ee13d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>546fdd43-42e2-49a9-a1c7-8ff0b9987e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'address[full_name]' and @placeholder = 'Full name']</value>
+      <webElementGuid>d52f245f-7c63-448b-bf31-c74accb28dea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

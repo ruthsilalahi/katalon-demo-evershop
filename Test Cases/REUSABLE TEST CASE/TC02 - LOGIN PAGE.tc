@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - LOGIN PAGE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd95ce63-0107-47b7-a4ff-ced71cad9428</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12ac199d-2b2c-43eb-8e9d-7ba8d35586b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46886a4f-6749-4480-b6db-fdabfe88c3be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'jennyerubyjane@gmail.com'</defaultValue>
+      <description></description>
+      <id>12ac199d-2b2c-43eb-8e9d-7ba8d35586b9</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password1'</defaultValue>
+      <description></description>
+      <id>46886a4f-6749-4480-b6db-fdabfe88c3be</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

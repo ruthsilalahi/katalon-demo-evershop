@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - REGISTER</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b4a039a-3130-432f-b67d-97900f63100d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>945301ca-d199-4770-ba89-335b42db049e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3459da4b-d772-4099-a680-123028b81c6c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>42a178d8-2d77-4aba-89f5-52bed241edc8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jennie Kim'</defaultValue>
+      <description></description>
+      <id>945301ca-d199-4770-ba89-335b42db049e</id>
+      <masked>false</masked>
+      <name>Fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'jennyerubyjane@gmail.com'</defaultValue>
+      <description></description>
+      <id>3459da4b-d772-4099-a680-123028b81c6c</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password1'</defaultValue>
+      <description></description>
+      <id>42a178d8-2d77-4aba-89f5-52bed241edc8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

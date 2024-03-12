@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ProductName</name>
+   <tag></tag>
+   <elementGuidId>d1830fb6-208b-4f34-92b3-d699ec73b1eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${ProductName}' or . = '${ProductName}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[3]/div/div/div[4]/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>779aec6b-9f9d-4795-bf9f-30e90151d366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${ProductName}</value>
+      <webElementGuid>44d30010-2197-406b-bc88-f98f39156de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;pt-3&quot;]/div[@class=&quot;page-width&quot;]/div[@class=&quot;grid grid-cols-2 md:grid-cols-4 gap-2&quot;]/div[@class=&quot;listing-tem&quot;]/div[@class=&quot;product-name product-list-name mt-1 mb-025&quot;]/a[@class=&quot;font-bold hover:underline h5&quot;]/span[1]</value>
+      <webElementGuid>ad88615a-7e74-42ac-9412-11bc35026684</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[3]/div/div/div[4]/div[2]/a/span</value>
+      <webElementGuid>e87bca13-b53d-4323-be33-6b6ee921d89c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$275.00'])[1]/following::span[1]</value>
+      <webElementGuid>68395b1e-f316-4603-b189-e7a381921f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Geography class chuck taylor all star'])[1]/following::span[2]</value>
+      <webElementGuid>22dfd663-d451-430a-aab3-a26d32873831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$370.70'])[1]/preceding::span[1]</value>
+      <webElementGuid>5d1747e9-37f8-4e86-8262-c30f9f007c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[3]</value>
+      <webElementGuid>85703f0d-6f87-4a67-8168-f89c2754d8b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Swift run x shoes']/parent::*</value>
+      <webElementGuid>331b118d-4337-4632-9d9e-38d3aeaa39df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/a/span</value>
+      <webElementGuid>f5016498-e81e-4207-a2fe-fa31fae9d178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Swift run x shoes' or . = 'Swift run x shoes')]</value>
+      <webElementGuid>a9c4ca72-295c-4537-8012-b4be409416a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Billing Address_checkbox-unchecked</name>
+   <tag></tag>
+   <elementGuidId>adae75d7-f52b-4bfe-8c10-3b4dcc6659c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkbox-unchecked</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='checkbox-unchecked']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a6aff8e-39ab-4ca4-816b-f815edc8fb8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-unchecked</value>
+      <webElementGuid>ff5fbb87-062d-4530-8976-98fad36656aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkoutPaymentForm&quot;)/div[1]/div[@class=&quot;form-field-container null&quot;]/div[@class=&quot;field-wrapper radio-field&quot;]/label[1]/span[@class=&quot;checkbox-unchecked&quot;]</value>
+      <webElementGuid>387c46a7-5d9b-4c06-992d-953614b8d82e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkoutPaymentForm']/div/div/div/label/span</value>
+      <webElementGuid>8cdc1c7c-175c-4437-9e74-fa6ed90d72cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>c1ad0531-9308-414b-910b-0d1653dcf871</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Province</name>
+   <tag></tag>
+   <elementGuidId>4ee4a816-37e2-426a-9cbc-9225e4f1dcf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid.grid-cols-2.gap-1.mt-1 > div > div.form-field-container.dropdown.null > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='checkoutShippingAddressForm']/div/div[5]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c1e8ea76-ea55-4754-a6d1-8a612213c418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>address[province]</value>
+      <webElementGuid>ae439357-34e9-4e67-b031-a38d354b8bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Province</value>
+      <webElementGuid>152a80b7-e338-4726-852c-3578e7a0cb81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkoutShippingAddressForm&quot;)/div[1]/div[@class=&quot;grid grid-cols-2 gap-1 mt-1&quot;]/div[1]/div[@class=&quot;form-field-container dropdown null&quot;]/label[1]</value>
+      <webElementGuid>257da2c2-e2a2-495b-9871-3e690ec43e45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkoutShippingAddressForm']/div/div[5]/div/div/label</value>
+      <webElementGuid>207b1160-8bec-461f-bbb8-177be6dd7614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::label[1]</value>
+      <webElementGuid>9778cd61-e966-48bc-80df-dddac39cede2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/following::label[2]</value>
+      <webElementGuid>9aa339e9-a5fd-4d8f-9078-f9549037f0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcode'])[1]/preceding::label[1]</value>
+      <webElementGuid>43d123fc-56b8-4345-911c-561c1ce14b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Method'])[1]/preceding::label[2]</value>
+      <webElementGuid>64e78372-d7b2-4a0b-b375-522614b34786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Province']/parent::*</value>
+      <webElementGuid>c5c07c6c-6762-4f6e-8e1d-6c31177cf898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/label</value>
+      <webElementGuid>45ec7508-b28b-46e4-af4e-8d398a6d2030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Province' or . = 'Province')]</value>
+      <webElementGuid>1bbce68c-7432-4294-9b45-0ba90f3fa1bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

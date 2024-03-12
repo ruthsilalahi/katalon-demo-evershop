@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 - PAYMENT PAGE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16e2ed09-c191-4411-981b-4dea169770d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4499e12b-c8c8-4395-bc04-c17d4dc2bf38</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>4499e12b-c8c8-4395-bc04-c17d4dc2bf38</id>
+      <masked>false</masked>
+      <name>BillingAddress</name>
+   </variable>
+</TestCaseEntity>

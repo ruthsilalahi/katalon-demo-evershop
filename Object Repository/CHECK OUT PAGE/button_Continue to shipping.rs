@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue to shipping</name>
+   <tag></tag>
+   <elementGuidId>8084f249-0197-4ffb-9ae4-10121699aed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;checkout-contact-info-form&quot;)/div[@class=&quot;form-submit-button flex border-t border-divider mt-1 pt-1&quot;]/button[@class=&quot;button primary&quot;][count(. | //*[@type = 'button' and (text() = 'Continue to shipping' or . = 'Continue to shipping')]) = count(//*[@type = 'button' and (text() = 'Continue to shipping' or . = 'Continue to shipping')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3639456e-f991-48ef-8d14-1e77cf6b1c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9c0de978-65b1-46e0-8c37-388c2b56c2ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button primary</value>
+      <webElementGuid>d8e384f5-ad16-491b-8ded-7d0a1aec1408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to shipping</value>
+      <webElementGuid>761c6ed7-c925-453e-8861-439ab49b0a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-contact-info-form&quot;)/div[@class=&quot;form-submit-button flex border-t border-divider mt-1 pt-1&quot;]/button[@class=&quot;button primary&quot;]</value>
+      <webElementGuid>4bc56d8a-5980-46d5-98ca-0867a68512e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>6fcca3ab-0397-4f2e-a96b-15e554e05d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkout-contact-info-form']/div[2]/button</value>
+      <webElementGuid>6a1abe09-defa-4688-8d89-7d18e9a85c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::button[1]</value>
+      <webElementGuid>1e030f40-45d8-44ca-a343-804fde015b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already have an account?'])[1]/following::button[1]</value>
+      <webElementGuid>81f008bb-f9e5-4a0b-abec-d9038dd42909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nike air zoom pegasus 35'])[1]/preceding::button[1]</value>
+      <webElementGuid>fa3684f0-65ff-4d42-aab6-e56e50941f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>19729da4-9796-4341-97e3-44d79e2244bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Continue to shipping' or . = 'Continue to shipping')]</value>
+      <webElementGuid>b5a671ea-4bd4-4be3-8e6f-17231fd1befa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

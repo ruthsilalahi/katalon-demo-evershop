@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - PICK PRODUCT - HOMEPAGE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bd709ef-1947-4359-a02a-ae39c89a4dc9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>283aa15d-0a54-46d8-8c75-ccd74bfc98df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>feeca625-a58c-4686-a98e-f86dbd988acf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d23da73-5935-45e5-810d-bbd0eb2e8f7e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e95eb192-ea5b-422f-ba37-6e36d5b7956a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nike air zoom pegasus 35'</defaultValue>
+      <description></description>
+      <id>283aa15d-0a54-46d8-8c75-ccd74bfc98df</id>
+      <masked>false</masked>
+      <name>ProductName</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>feeca625-a58c-4686-a98e-f86dbd988acf</id>
+      <masked>false</masked>
+      <name>ProductQty</name>
+   </variable>
+   <variable>
+      <defaultValue>'L'</defaultValue>
+      <description></description>
+      <id>7d23da73-5935-45e5-810d-bbd0eb2e8f7e</id>
+      <masked>false</masked>
+      <name>ProductSize</name>
+   </variable>
+   <variable>
+      <defaultValue>'Black'</defaultValue>
+      <description></description>
+      <id>e95eb192-ea5b-422f-ba37-6e36d5b7956a</id>
+      <masked>false</masked>
+      <name>ProductColor</name>
+   </variable>
+</TestCaseEntity>
